@@ -1,4 +1,4 @@
-# MusicPlayer
+# Music Player App 🎵
 This is the music player with the interactive UI for the easy access for user
 This application can be used to play mp3 songs. The key features in this are as follows,
 * It contains the ability to fetch all the mp3 songs from the Local Storage. 
@@ -13,3 +13,7 @@ These features are implemented with the help of :-
 3. Viewpager
 4. SQLite Database
 5. Adapters.
+
+Developed By,
+
+***Syed Mohammed Idris***
